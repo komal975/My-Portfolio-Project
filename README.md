@@ -1,2 +1,18 @@
-# My-Portfolio-Project
+# My-Portfolio-Project-Git Tutorial
 My first website creation project.
+Adding a file in the Git Repository:
+... 
+git add filename
+git commit -m "This is my First project"
+git push
+...
+
+how to check status of a repository:
+...
+git status
+...
+
+to pull a changes to local repository:
+...
+git pull
+...
